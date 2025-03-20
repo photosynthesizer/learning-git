@@ -1,7 +1,7 @@
 import subprocess
 import csv
 #git clone git@github.com:snyk/snyk-ls.git
-git_prefix = 'https://github.atl.pindrop.net/'
+git_prefix = 'https://yourgit/'
 
 py_projects = []  # List for Python projects
 go_projects = []  # List for Go projects
